@@ -27,7 +27,6 @@ I also work with **Python** for machine learning, including time-series forecast
 ### Activity
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AVitrum&show_icons=true&hide_border=true&theme=transparent&title_color=7c5cff&icon_color=7c5cff&text_color=8b949e&count_private=true&hide_rank=true" alt="GitHub stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVitrum&layout=compact&hide_border=true&theme=transparent&title_color=7c5cff&text_color=8b949e&langs_count=2&hide=typescript,javascript,java,dart,ruby,shaderlab,hlsl,html,css,scss,shell,powershell,dockerfile,jupyter%20notebook,c%2B%2B,c,batchfile" alt="Top languages" />
 </p>
 
